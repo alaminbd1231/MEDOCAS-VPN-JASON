@@ -1,1 +1,41 @@
-kE7MRSuB3tt0Z5l122mzE7dFhuoHhjwHigWN7NneRHIiSfrAAYt21ZhTj8GMeoR4I1CHC3fC0A0eSBnkSMBy+jWuiPZRCxaCliz9tKFOQ1NkWCLfe3rlPjOya8RZylQWn0FblsOMyYx+tEacYVUbqlFdWeV0R7pt0SaMl2itfqHphNEZdPsWRkd6KexqdtwFUqQacQeHQ923XuwwSKOc8+MssGpqn/jBx6C0mg8SuNrcEHQvATGoZUVGuGSqeQ3gMZJ/eyZOiSPDPWjjOTIQW56X93GKslhrGM3Cfz79SOO+F0RUYPv1UoD3bYC20jKabdmqxOmrJilot70w5/Q6nur1kpz/0mpgfBsgXEsZlotMLHyIFEhqWzi2k5PMfH6qATAFfOO9vETIXQjXGiHVDsfK3rXP8/Ac6wvBbgYKU71qfFQ3I75p932hKw+57Qb0KEtVWDPd8SYjQeIEwUKMB74AWc1FzExoFch4i3hK3fCGhdB7CRNoG99jc34B3R8q/Eyc0zETKmRGqh55f9iaENiu4Y3dnjZpOAp8EfO1prhU/4GJMJbM3/+wbUrtC+BK56lT5NSNn1NfnK0zhYitUnCAWppf18r2yauJhHsFiOugtr2Fl2fa8+i2RMM91FtC4/jsymliqR/Bex1o25bsRnwOBF6VLqPTx2V+JE6fznVD4dnTpj1NGuwcPx/uCfcQ9fW5I1jcrbdBxjbvpweq6DgSNtjEUqA9tICWumKM7g4f6dDgw7ZalC4L0GXxgW0GIq0g4MQ0XaQJ1lGddrfHx49dWgKvU7O+F3LORcxxcd44D08UQCSdhu1kpe72qZS0NJzttjsAy/mLmpMCMfF3bopYuWvgUzezsDheUNVTYlSUCKznq1hBdfLz4OWiXIOgKuAE+RW866lvGDPV48nu/wRPUhB3yWy7naJmgkHXuKOjZiLGz2+uNoRRvwl2hHyO4QBNtUTovsabW8QAytpLLUZ3+gwFEH1smLahGtYT0rjdU0Sm46q96jJxwmZ9/hBHsXYaPWcBIfi0IdcIGTfNJ+BNPUAt/QzI2pmZLLLLAh3lXl0g5F/1KkSxjZu8Rzr1/Rr5BmEL9ZvNeWO9V6G9YphfGQFPruTiMEoRGzH9ZLfis7fgVOTG5xX6L/KsacnjklV6SOj4BKT6Op7U/Vk34o3CAlHuO0sKXpoQ2EeZIaP0FttN1pmQLr4SmkETMfouABdLsfWAq39iIfx84DO5SKPS/YUM5XTJXWhw8Q==
+{
+  "EnableAds": true,
+  "EnableTimer": true,
+  "Notes": "New Release \n\nInitial version ",
+  "Password": "Techjei1",
+  "Servers": [
+    {
+      "Flag": "gb",
+      "Name": "United kingdom ",
+      "Port1": "22",
+      "Port2": "80",
+      "Port3": "443",
+      "Protocol": "SSH",
+      "SSHPort": "22",
+      "ServerIP": "vsa7.dozapp.xyz",
+      "ServerPass": "doingsedozlite",
+      "ServerUser": "edozlitedoings",
+      "Subname": "",
+      "sInfo": "premium ssh server "
+    }
+  ],
+  "Tweaks": [
+    {
+      "DNSHost": "",
+      "Flag": "icon",
+      "Json": "",
+      "Mode": "SSH",
+      "Name": "Airtel 150mbs ",
+      "Payload": "METFONE /cdn-cgi/trace, HTTP/1.1[crlf]Host: [host][crlf][crlf]GET-RAY / HTTP/1.1[crlf]Host: [host] [crlf],Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+      "ProxyIP": "viton.com",
+      "ProxyPort": "80",
+      "SNI": "",
+      "SshMode": "HTTP Direct",
+      "SslPort": "",
+      "Subname": "HTTP PROXY \u003e PAYLOAD",
+      "TunnelType": "2",
+      "V2BugHost": "",
+      "pInfo": "Powered by Techjei "
+    }
+  ]
+}
